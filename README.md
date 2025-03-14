@@ -14,6 +14,9 @@ Classic
 
 # O que muda?
 Invez de usar o tema Kvantum com blur que traz alguns bugs, utilizar a versão solid para Kvantum e Aurorae, que trazem um certo aŕ de GTK
+E invez de utilizar o tema de icones, utilizar o mencionado ''Big Material UI'', para trazer a cara de BIG pro sistema
+
+''Para quem diz que o BigLinux é bloated''
 
 
 
